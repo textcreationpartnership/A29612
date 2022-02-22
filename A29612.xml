@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prophet approved by the words of his prophesie coming to passe being a declaration of the message which Daniel Baker received from the Lord to the Parliament ... met together the 6th day of this 8th month in the place falsely called Christ-Church in London, which day was set apart for thanksgiving, but proved a day of persecution and voluptuous feasting to the grief of Gods spirit : also a letter from Daniel Baker to the mayor and recorder of London / published by Thomas Hart.</title>
+            <author>D. B. (Daniel Baker), fl. 1650-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29612</idno>
+            <idno type="STC">Wing B484</idno>
+            <idno type="STC">ESTC R9326</idno>
+            <idno type="EEBO-CITATION">12384234</idno>
+            <idno type="OCLC">ocm 12384234</idno>
+            <idno type="VID">60805</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29612)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60805)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 267:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prophet approved by the words of his prophesie coming to passe being a declaration of the message which Daniel Baker received from the Lord to the Parliament ... met together the 6th day of this 8th month in the place falsely called Christ-Church in London, which day was set apart for thanksgiving, but proved a day of persecution and voluptuous feasting to the grief of Gods spirit : also a letter from Daniel Baker to the mayor and recorder of London / published by Thomas Hart.</title>
+                  <author>D. B. (Daniel Baker), fl. 1650-1660.</author>
+                  <author>Hart, Thomas, 1629-1704.</author>
+               </titleStmt>
+               <extent>[4], 4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Letter dated and signed: New-gate this 17th of the 8th month and 2. of the week 1659, Daniel Baker.</note>
+                  <note>Reproduction of original in Yale University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Controversial literature.</term>
+               <term>Prophecies.</term>
+               <term>Great Britain --  History --  Prophecies.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60805:1"/>
+            <p>The PROPHET APPROVED, BY THE WORDS Of his Propheſie coming to paſſe.</p>
+            <p>BEING A Declaration of the Meſſage which <hi>Daniel Baker</hi> received from the Lord to the Parlia<g ref="char:EOLhyphen"/>ment, Counſel of State, Officers of the Army, Mayor and Aldermen of the City, met together the 6th day of this 8th month in the place falſely called <hi>Chriſt-Church</hi> in <hi>London,</hi> which day was ſet apart for Thankſgiving, but proved a day of perſecution, and voluptuous feaſting, to the grief of Gods Spirit.</p>
+            <p>Alſo a Letter from <hi>Daniel Baker,</hi> to the Mayor and Recorder of <hi>London.</hi>
+            </p>
+            <p>Publiſhed by <hi>Thomas Hart.</hi>
+            </p>
+            <p>
+               <hi>That people may ſee the Lord hath his Prophets in this land.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Thomas Simmons,</hi> at the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1659.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:60805:2"/>
+            <head>To the Serious Reader.</head>
+            <p>OFten hath the Lord warned the Rulers of theſe Nations by his Ser<g ref="char:EOLhyphen"/>vants and Prophets, in theſe late years and moneths; But they (high and stiff-necked) have ſlighted instruction, and caſt reproofe be<g ref="char:EOLhyphen"/>hind them, even until the judgement threatened and foretold of, hath o<g ref="char:EOLhyphen"/>vertaken them one after the other, becauſe none of thoſe that ſucceeded in the Rule and Government have hitherto laid it to heart, but when the Lord hath ſent his Servants to them, they have likewiſe refuſed and re<g ref="char:EOLhyphen"/>jected the Counſel of the Lord, and ſo have provoked him against them; often was <hi>Oliver Cromwell</hi> adviſed of the Judgement of the Lord againſt him and his family, if he did not repent, and when Gods decree was ſealed up againſt him to cut him off, he was let to know it about a moneth before it came upon him, and how the Lord would alſo ſtretch forth his hand againſt all that was high and lifted up in the Rule of theſe Nations, even from the one end thereof to the other, which ſhortly after came to paſſe; When <hi>Richard Cromwell</hi> came to the Government, he alſo was warned and foretold of what at laſt he found come upon him, likewiſe his packt aſ<g ref="char:EOLhyphen"/>ſembly was told of their doom, together with their new houſe of Lords again establiſhed to the diſhonour of the Lord of Heaven; The Army, when the Rule as well as the power was in their hands, for a little ſeaſon, before the return of the Long Parliament, were likewiſe warned to beware of that ſpirit which had led them aſide and betrayed them from their first love, even that ſpirit that is against liberty of Conſcience (which was once clearly aſſerted by them) they were bid to remember <hi>Ama<g ref="char:EOLhyphen"/>leck</hi> (the Soul murthering, and conſcience-binding Clergy-man) and what they did unto them by the way when they were coming out of <hi>Egypt,</hi> how they ſmote the hindermoſt of them, even all the feeble and week when they were faint and weary, even <hi>Amaleck</hi> who feared not God, that his name, even the ſpirit and power of perſecution in the Clergy man ſhould be by them blotted from under Heaven; but the Army not hearkening to the counſel of God then given, drunk a freſh of the Whores cup of ſorce<g ref="char:EOLhyphen"/>ries till they reeled and fell under her feet; of which alſo they were warn<g ref="char:EOLhyphen"/>ed a ſecond time, and foretold of this hour that is come upon them, as may may be ſeen in a book tituled <hi>Mene Tekel.</hi>
+            </p>
+            <p>At laſt the long Parliament being returned by the providence of the Lord to try them again what they would do for God and his people, were often
+<pb facs="tcp:60805:2"/>cited to their duty, and made acquainted with what the Lord expected from them; they alſo turning their backs upon the way of the Lord, and deſpiſing the Counſel of his ſervants, went on in the way of thoſe the Lord had newly brought down, were often told, the Lord would rebuke them, and at laſt when they, with the Councel of State and Officers of the Army, were meet together with the Mayor and Aldermen of <hi>London</hi> in the Stee<g ref="char:EOLhyphen"/>ple houſe (falſely called Chriſt-Church) as they pretended to thank God, (but the Lord abhorred their ſacrifice) this ſervant of the Lord <hi>Daniel Baker</hi> was moved of the Lord to go to that place, where he ſpoke part of what the Lord commanded him, but they would not hear him, but ſuffered him to be haled away, and beaten, and abuſed, and flung into Newgate (by the rude rabble;) the ſubstance of what the Lord required him to ſpeak to them, he had writ down juſt before he went to the Steeple-houſe, which I here preſent to thy view, alſo the words he got forth amongst them as they were haling him down, whereby thou mayeſt ſee how the Lord hath left them without excuſe, having warned them of what he would bring upon them if they repented not, who were ſo far from hearing and fearing the words of the Lord by his ſervant to them that the greatest part of them of the Parliament were ready to make or confirm a law, to keep the ſervants of the Lord from ſpeaking, though according to the will and com<g ref="char:EOLhyphen"/>mandment of the Lord, in their steeple-houſe, like thoſe that went before them; wherefore eſpecially (and for that they delaied to deliver the Na<g ref="char:EOLhyphen"/>tion from the oppreſſor on every hand) hath the Lord ſo ſoon laid them aſide with diſhonour.</p>
+            <p>Nor let the Army think they ſhall eſcape the dreadfull hand of the Lord, breaking and confounding them alſo if they come not forth with true zeal for God and his people, and for the general good of all the peaceable people of this Nation, and deny themſelves; I ſay, if they do not lay forth them<g ref="char:EOLhyphen"/>ſelves for the Lord and his people (eſpecially) and for the good of the whole Nation in General, but do labour to ſecure themſelves, under and by a corrupt intereſt, they ſhall not proſper, for the Lord will break and confound them, and they ſhall be ſpued forth.</p>
+         </div>
+         <div type="peroration">
+            <pb facs="tcp:60805:3"/>
+            <head>Here follows what the Servant of the Lord had writ down be<g ref="char:EOLhyphen"/>fore he went into the Steeple-houſe aforeſaid.</head>
+            <p>WHither are ye turning aſide, O ye lofty mountains of the Earth, to nou<g ref="char:EOLhyphen"/>riſh your hearts as in a day of ſlaughter, by which you condemn the Juſt, and betray the Innocent who do not reſiſt you.</p>
+            <p>Wherefore aſſemble your ſelves together oh ye great Mountains, that the inviſible everlaſting God may poure forth upon your heads his indignation, and ſhatter and break you to pieces, and confound and over<g ref="char:EOLhyphen"/>turn your deviſes, and give you up to the deceit and imagination of your own hearts luſts, foraſmuch as you have vexed and grieved the eternal and inviſible ſpirit of the <hi>moſt high</hi> whom you pretend to honour, but too manifeſt that <hi>your own</hi> you prefer before him and his Counſel.</p>
+            <p>Wherefore hear the Word of the Lord ye ſtrong Oaks and lofty trees, your counſels are not good, and you have ſoon turned aſide (out of the way) therefore the Lord of Hoſts will meet with you, and with his beſom of deſtruction will he ſweep you all away in his anger, if you yet repent not ſpeedily, and ſubject to the ſpirit of meek men, holy men, and of ſound judgement in you.</p>
+            <p>Are not the eyes of all the honeſt hearted in the Nation, looking for this ſpirit to break forth in its power and life in the mideſt of you, and to ſhine over the Nations, that the Heathens round about might be amazed, aſtoniſhed and con<g ref="char:EOLhyphen"/>founded, and come to know that the power, and dread, and life of the everlaſting God is in the midſt of you?</p>
+            <p>And is it a time to feed your ſelves without fear, and to run greedily into the exceſſe of Ryot, to devour the Creatures, and to deſtroy the Creation upon your ungodly luſts?</p>
+            <p>Wherefore the indignation of the Lord as a fire is kindled, [and many of you ſhall feel it] againſt you<g ref="char:punc">▪</g> And wo be to the Hypocrites, the Lords ſoul abhors your prayers and ſolemn aſſemblies, <hi>the day of your Calamity is at hand,</hi> for ye have wea<g ref="char:EOLhyphen"/>ried the Lord of Hoſts with your hypocriſies from time to time; why ſhould ye be ſmitten or warned any more, ſeeing you have thus in the eyes of all people tempted and evil requited the Lord God, ſtrong and powerful, dreadful is his e<g ref="char:EOLhyphen"/>verlaſting name, who will take vengeance and eaſe himſelf of his Adverſaries, who deal deceitfully with the everlaſting (the <hi>I am,</hi> a) conſuming fire.</p>
+            <div type="part">
+               <head>Hear followeth the words which the Lord put into <hi>D, Bs,</hi> heart to ſpeak or give forth, which ſtands a teſtimony upon the heads of Parliament, Army, Mayor, Aldermen and Citizens of <hi>London</hi> met together the 6th day of this 8th moneth, being the fifth day of the week, at the Steeple-houſe (falſely called Chriſts-Church) wherein obedience to the Lord, his body was given up to ſuffer, and the Teſtimony was thus given forth from him at that place, ſaying;</head>
+               <p>HEar, hear, hear the word of the Lord, oh ye mountains and Inhabitan<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s of the earth; the day, even the day of Gods viſitation is upon your heads, for ye have choſen the way that is not good; wherefore aſſemble your ſelves together, oh ye ſtrong Oaks, that the Lord might poure upon your heads his Indignation, for deceit and hypocriſie the Lords ſoul abhors.</p>
+               <p>As ſure as the Lord over-turned them that went before you, ſo ſure will the Lord overturn you.</p>
+            </div>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:60805:3"/>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>KNow ye that I am a man free-born in this Nation (the land of my Nativity) and have faithfully ſerved my generation in the late wars and commotions from time to time againſt the common enemies, name<g ref="char:EOLhyphen"/>ly the Kings, the Dutch, the Portugal, French, and Spaniard, and what I have from time to time ſuffered, at preſent I mention little; beſides the wounds and ſhedding of my blood, with my bone: ſhot and ſhattered to pieces, and taken out of my body; And there was a time and times alſo, in the behalf of the Nation, I could ſay to one, goe, and he goeth, and to ten, come, and it was ſo; and to a hundred, do this and that, and it was done: but this is paſt away as the duſt before the wind; but behold I am this day in bonds for exerciſe of a pure conſcience, in obedience to the inviſible pure Spirit of the Lord God, in my heart, to which my ſoul is become ſubject; for its the higher power, and the moſt high that ſearcheth my heart, knoweth my heart, that I ſpeak the truth in his fear and dread in the truth, and lye not.</p>
+            <p>Now that you may not be altogether ignorant of what you have done, In the Lord have I freedom now to write to yee, to the end that you might have a more perfect underſtanding, what hath already been paſt concerning me, before and ſince the time of my impriſonment, and that yee might be altogether left with<g ref="char:EOLhyphen"/>out excuſe in the time of your tryall before the throne of the Lamb, ſlain ſince the foundation of the world, whether you now hear or forbear; but if the eye and ear of a good underſtanding be opened in you, to hearken to the cry of the op<g ref="char:EOLhyphen"/>preſſed within you, and without you, and let it go free by breaking the bonds of wickedneſſe within and without you (Read within and underſtand) of a truth my ſoule, into which the Lord God hath breathed his pure breath of life, and thereby it now only lives; will exceedingly rejoyce in the Lord, otherwiſe my ſoule in ſecret (as hitherto) ſhall mourn and lament over the oppreſſed ſeed, untill the Lord, ſtrong and mighty, ariſe to render vengeance upon the head of the oppreſſor, and to plead in truth with his righteous judgements, the cauſe of the innocent, who are the ſigns and wonders of theſe latter dayes, as in the dayes of old.</p>
+            <p>Now if you can believe my words, O ye men that ſhall dye? hearken and hear, and bear with me a moment, which I know you will, if you ſubject to the meaſure of that noble, juſt, equall, pure, meek principle, or ſpirit that was in Moſes, and be<g ref="char:EOLhyphen"/>hold I tell yee, is in you alſo, but 'tis exceedingly oppreſſed, let it ariſe to hear me, for to that only I deſire to be manifeſt.</p>
+            <p>On the ſixth day of the eighth moneth, and fifth day of the week, tidings came to me of a feaſt for the Mayor and Aldermen, Parliament and Army that day, upon which I weighed and pondered in my mind, whether it were a time to feaſt, and the Nation with her free-born inhabitants, ſo greatly oppreſſed un<g ref="char:EOLhyphen"/>der ſuch grievous yoaks and bonds of wickedneſſe, and ſo many poor, naked, blind and lame, that wants bread, and ſuch great things promiſed by ſuch wiſe men, (and whether the Lord God will not viſit for theſe things) and were going to
+<pb n="2" facs="tcp:60805:4"/>eat and to drink, and nouriſh their hearts, as in a day of ſlaughter; and imme<g ref="char:EOLhyphen"/>diately the power of the indignation of the Lord ſtirred within me, and his word, which is the higher power, I felt to be quick and powerfull, moved, and I im<g ref="char:EOLhyphen"/>mediately ſubjected to its command, which was to ſpeak theſe words in the Au<g ref="char:EOLhyphen"/>dience and preſence of you all aſſembled together, whether you can believe me or not, or hear, or forbear; theſe words the everlaſting God put into my heart, and in obedience to his inviſible ſpirit of life, I ſpeak them forth, as yee may remember, if you did mind, thus, in the old Maſſe-houſe, called Chriſts Church.</p>
+            <p>Heare, heare, heare the word of the Lord, O ye Mountains and Inhabitants of the earth, the day, even the day of Gods viſitation is upon your heads, for yee have choſen the way that is not good, wherefore aſſemble your ſelves O yee ſtrong oaks, that the Lord might poure upon your heads his indignation, for de<g ref="char:EOLhyphen"/>ceit and hypocriſy the Lords ſoul abhorres.</p>
+            <p>And if thus to obey the Lord God be a tranſgreſſion of any of your Decrees or Laws, behold here is a body prepared to ſuffer, let Gods witneſſe, the light of Chriſt in your conſciences judg, &amp; whether it be not better to obey God rather then man, judge yee; But if you reply, and ſay, thou madeſt a diſturbance, thou didſt diſturb the Miniſter that was praying, and we had a Law which was founded upon Queen <hi>Maries,</hi> that blood-thirſty perſecuters Law, which was three moneths impriſonment, after due accuſation and examination heard, and conviction of two witneſſes before two Juſtices of the Peace; mark that, to any one that ſhould on purpoſe maliciouſly, or contemptuouſly diſturb the Preacher; and becauſe her Law was not ſevere enough for the Prieſts, <hi>Oliver Cromwell</hi> and his Councel added three moneths more to it, but I have fulfilled that Law, by ſuffering under it with many more, as a teſtimony againſt it, and the Founders and Builders up of it, for ever; but this late Parliament have made this Law null and void; However, thou oughteſt to be had to priſon, and to ſuffer; what? without a Law? becauſe thou diſturbeſt us, and we cannot believe that it is according to Chriſt or his Apoſtles doctrine, though we call the Scripture our Rule, may ye ſay in your hearts, and God is a God of order, and he is not the Authour of confuſion; To which I anſwer, he that ſpeaks true and ſober words, in obedience to the moving and commandment of the Lord, without reſpect of perſons, dayes, place or time, is not diſorderly, nor the Authour of confuſion; and if you were in all things guided by Moſes, Chriſt, his Prophets, and Apoſtles ſpirit; yet oppreſt in bondage, in you, ye would know it: but they are diſorderly, that break forth into confuſion, and are like Bears, Lions, Dogges, and wolves, in their devouring nature, to rent, tear, and devour, knock down, dragge, and offer violence, and buffeting a poor ſingle Lamb, or Friend of Chriſt, both in and out of the Syna<g ref="char:EOLhyphen"/>gogue, or Maſſe-houſe, and dragge the poor Saints before the Judgement Seat.</p>
+            <p>Neither is it contrary to the Apoſtles doctrine, who ſpake (by the Spirit of Chriſt Jeſus the light in him) who ſaid, if any thing be revealed to another that ſits by, let the firſt hold his peace; and as many poor wiſe men that were among you, even they might have ſeen and felt, that I was not out of the Apoſtles do<g ref="char:EOLhyphen"/>ctrine, neither ſpake contrary to the pure ſpirit that gave forth the Scriptures of truth, but ſtood up a certain time in the fear &amp; dread, and power of the Lord God, before I ſpake forth the words, ſo that the Prieſt had time to have ſtopt &amp; held his peace; &amp; if he had done ſo, together with the bruitiſh People, or rude multitude,
+<pb n="3" facs="tcp:60805:4"/>it would have been good order, and according to the Apoſtles doctrine, and Scriptures of truth; and after I had ſpoken the words of the Commandement of the Lord forth, I know I ſhould have departed in Gods fear and peace orderly as I came in; yet notwithſtanding, I neither reſiſted, nor offered violence to ei<g ref="char:EOLhyphen"/>ther man, woman, or child, and it would have been a noble thing of any of you Magiſtrates, chief Captains, Colonels, or Souldiers, and according to your place, to have called out or uſed means to have reſtrained the diſorderly, rude, bruitiſh people, from dragging, pulling, or tearing me to pieces, or from buffeting me in the face, and from pulling my hair, and beating, and dragging me, See <hi>Act.</hi> 23, 9, 10. Even in and forth of your high place of worſhip, and from dragging me to priſon, contrary to your Laws without <hi>Mittimus,</hi> or being called before any of you, who ſhould without delay have heard a lawful triall, and true witneſſes, with due ac<g ref="char:EOLhyphen"/>cuſation, that you might then have ſignified the crimes to the Goaler, and this had been but reaſonable; and in ſuch a matter, him whom the Prieſts and profeſſors, and profane of England, call a Heathen, Namely, <hi>Feſtus,</hi> was more noble, and will judge you, See <hi>Acts</hi> 23.27. verſe, but they, who all of them are called Chriſtians, but more like, yea, and far worſe then Heathens, that know not the dreadfull God among them, in their rage and enmity dragged and threw me into the Goale New-gate, &amp; after they had thus thrown me into the Goal, as if I had been a dead dog, or ſwine, they beat me there with a ſtaff, beſides, one unreaſonable mercileſs man ſtruck me over the bare head with a ſtaffe, even in the Idols Temple, be<g ref="char:EOLhyphen"/>ing at the ſame time dragg'd between four or five men.</p>
+            <p>And Friends, this was diſorder, tyranny, cruelty, oppreſſion, and injuſtice, and it had been better you had been found executing true and ſound juſtice and judg<g ref="char:EOLhyphen"/>ment, without reſpect of perſons, gifts, or rewards; (when ſhal it once be?) then to have thus met to feed your ſelves without fear over the oppreſſed ſeed; and Ma<g ref="char:EOLhyphen"/>giſtrates, that are to rule for God, will, and in his pure noble principle in them, ſhould be juſt men of truth; a terrour to evill doers, that offer violence in the devouring nature againſt the innocent, (whoſe praiſe is not of men, but of God; and ſuch as rule for and with him) and for theſe and a multitude of ſuch like things will the everlaſting God of truth viſit the haughty oppreſſors, and perſecuting prieſts and Magiſtrates of Englands Nation, and dominions, whoſe day of viſitation, of ſalvation, is haſtening over their heads, who to this day have rejected its appearance.</p>
+            <p>And although there was not found among all the multitude, after I had waited two dayes before your Judgement Seat, one man, woman, or child, that did, or could accuſe me of the breach of any Law, except it were one or two of you that ſate upon the Judgement Seat, did accuſe me. Now conſider (if you be a little coole) with the ſpirit of wiſdom, meekneſſe, and of ſound judgement, whither I have done or ſpoken any thing contrary to any Law or Decree (if you can make it appear, do it without delay; for behold I am yet under your hand, and behold here's a body in which I am prepared to ſuffer) as I demanded before all the peo<g ref="char:EOLhyphen"/>ple aſſembled before your Judgement Seat, that it was but reaſonable, and an equall thing to ſhew and convince me by the Law before the people, what evill I had done either in word or action, but no Law was brought or admitted to be read to or againſt me, and ſo this reaſonable thing was denied me; and herein you cannot be ſaid to be noble, while you thus turn the ſword againſt the innocent; and the Lord God will plead with you for it; for the Lord is nigh at hand to try
+<pb n="4" facs="tcp:60805:5"/>you, and to judge and reward for all your deeds done in every of your particular body; And thou <hi>John Ireton,</hi> inſtead of doing Juſtice, and executing true and ſound Judgment, after true ſearching and enquiring into the nature and ground of a mat<g ref="char:EOLhyphen"/>ter, and ſo to plead the cauſe of the innocent, whoſe conſciences are exerciſed to<g ref="char:EOLhyphen"/>wards God, this would have been thy honour; but even thou replyedſt, and ſayedſt, <hi>Take him away, he is mad.</hi> Alas poor man, thou knoweſt not what thou haſt done, and ſurely I perceive thou doſt not yet know or believe, againſt whom thou, together with the reſt of the perſecuting Magiſtrates and Prieſts of <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Ireland,</hi> have lifted up your hands; and behold this teſti<g ref="char:EOLhyphen"/>mony I give forth, whether you can believe, or receive it or nay, that here is three of us in bonds in New-gate Goale; namely, <hi>Humphry Bache, Anne Gould,</hi> and <hi>Daniel Baker</hi> (committed by your order and wills) who, as ſure as the Lord God hath given you and all men breath and life, and all things, ſo ſure are we his Servants and Friends, and worſhip him in ſpirit and in truth; for he who is a moſt pure, inviſible, eternal ſpirit, hath ſought and found us, and we are in him that is true, and ſo is our teſtimony, and therefore cannot lye nor ſwear, nor give flattering titles to any man, if we ſhould, the Lord our God, whom we ſerve, would condemn us, and we aſſuredly know, that the whole world lyeth in wick<g ref="char:EOLhyphen"/>edneſſe; and therefore in love to the world on the Lords behalf as his friends, we teſtify againſt the deeds and friendſhips, and honours thereof, for they are evill; and its enmity to our God, who is the living God. And this know aſſu<g ref="char:EOLhyphen"/>redly from my hand, that is guided by the good ſpirit of the Lord, to write theſe things, that I am this day in bonds for the teſtimony of him that ſaves from ſin, and for the exerciſe of a pure conſcience, who deſires that in the day and time of your tryal, when the tribes of the earth ſhall mourn (and they ſhall look upon him (the Light) whom they have rebelled againſt, and pierced.)</p>
+            <p>That theſe things where Repentance unto life is truly witneſſed, may not be laid to your charge, who yet ſit in the habitations of cruelty and darkneſſe, and I am with that which is the condemnation of the unjuſt, but is the life of the Juſt.</p>
+            <closer>
+               <dateline>
+                  <hi>New-gate,</hi> 
+                  <date>this 17. of the 8th, month, and 2. of the week. 1659.</date>
+               </dateline>
+               <signed>DANIEL BAKER.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="afterword_to_the_Army">
+            <p>
+               <hi>Something after to the Officers of the Army.</hi>
+            </p>
+            <p>Friends, in love to your ſoules and bodies is this, deſiring you to call to Remembrance the many warnings which the Lord our God hath given by his ſervants to Protectors (ſo called) and to Parliaments, that they might eſcape his judgement, which (becauſe of their hard-heartedneſs, and careleſneſs towards Gods Councel) hath overtaken them at unawares. And unleſſe ye repent, and turn to the meaſure of Gods Grace, and doe the things that are Right, ye ſhall not eſcape. The Righteous lives in ever<g ref="char:EOLhyphen"/>laſting peace, but the wicked are ſhut up in darkneſſe, till the great and terrible day of our God, which is at hand; wherefore, whilſt you have part of a day, prize it, and believe the warnings of the Lord to you, left ye alſo ſuffer.</p>
+            <trailer>THE END.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
